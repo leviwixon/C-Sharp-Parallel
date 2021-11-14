@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1v0Q+sSSIrZiLTpuQHbaM1DLac79n88b5Twgjoqfd2X2S7sPcppcSwdKi6LYo9bKF7JsM8G4rrmb2S6h9j7PSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lfwix\\source\\repos\\C-Sharp-Parallel\\Sequential-Grip\\Sequential-Grip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lfwix\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
